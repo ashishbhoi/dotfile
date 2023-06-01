@@ -1,1 +1,14 @@
-/home/ashish/.gitconfig
+[user]
+	email = ashish.bhoi12@gmail.com
+	name = Ashish Kumar Bhoi
+	signingKey = D9693F8E37473B4AAA3B35870D2A1DE5DBCC6C10
+[commit]
+	gpgSign = true
+[tag]
+	gpgSign = true
+[init]
+	defaultBranch = main
+[core]
+	editor = editor
+[color]
+	ui = auto
